@@ -1,0 +1,15 @@
+{"message":"Title is required","level":"error"}
+{"message":"Invalid rating '12' supplied","level":"error"}
+{"message":"Invalid rating '20' supplied","level":"error"}
+{"message":"Bookmark with id 594a26d2-a361-42c5-b516-5a2a9bf7e200 created","level":"info"}
+{"message":"Bookmark with id c19551a5-641a-49e5-94a0-454329c8a0e6 created","level":"info"}
+{"message":"Bookmark id ba92da14-e036-42e7-9bfd-4995490f68a7 created","level":"info"}
+{"message":"Bookmark id 00e4c0f3-e712-4e08-a4e8-d7ed0d7bacfc created","level":"info"}
+{"message":"Bookmark id 4e78f418-389c-4c91-918f-de9c1aaeb591 created","level":"info"}
+{"message":"Bookmark id eebba724-f6ba-4614-aab4-4d0e501e465d created","level":"info"}
+{"message":"book with id 1c23f82b-6cb5-4d01-bc21-773d0e0c900b not found.","level":"error"}
+{"message":"book with id 5bff7c2e-5820-446c-8bb5-c5049e50e5cc not found.","level":"error"}
+{"message":"book with id 5bff7c2e-5820-446c-8bb5-c5049e50e5cc not found.","level":"error"}
+{"message":"Book with id cedf31c5-165e-46d0-9446-055689f10e90 not found.","level":"error"}
+{"message":"book with id 7a99d0de-40c1-4ac2-8d5c-8be3055ef31f deleted.","level":"info"}
+{"message":"book with id 4b73ed70-836d-440b-93dc-5d004cce8345 deleted.","level":"info"}
